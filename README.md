@@ -16,7 +16,7 @@ This repository demonstrates fundamental data visualization techniques using Pyt
 1.  **Setup**
     Clone the repository and install the necessary libraries:
     ```bash
-    git clone [https://github.com/turganaliev/matplotlib.git](https://github.com/turganaliev/matplotlib.git)
+    git clone https://github.com/turganaliev/matplotlib.git
     cd matplotlib
     pip install -r requirements.txt
     ```
