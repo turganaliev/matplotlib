@@ -18,6 +18,9 @@ This repository demonstrates fundamental data visualization techniques using Pyt
     ```bash
     git clone https://github.com/turganaliev/matplotlib.git
     cd matplotlib
+    python -m venv venv
+    source venv/bin/activate  # On macOS/Linux
+    # On Windows, use: .\venv\Scripts\activate
     pip install -r requirements.txt
     ```
 
